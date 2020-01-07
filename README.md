@@ -3,7 +3,7 @@
 
 ## 项目主题
 #### [中国各省单身人口与经济发展水平、男女比例和教育水平之间的关系代码](http://nfunm054.gitee.io/interactive_data_visualization_final_project/)，请点击查看代码。
-#### [中国各省单身人口与经济发展水平、男女比例和教育水平之间的关系网站](http://chanyi.pythonanywhere.com/)，点击浏览网站。
+#### [中国各省单身人口与经济发展水平、男女比例和教育水平之间的关系网站](http://lbyinan.pythonanywhere.com)，点击浏览网站。
 
 ## 现有的数据（中国）
 - 全国总体人口数（万人）
